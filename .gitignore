@@ -1,0 +1,9 @@
+.vscode
+*.log
+*.fls
+*latexmk
+*.aux
+*.gz
+*.docx
+*.pdf
+cuttingTree
